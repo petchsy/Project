@@ -30,4 +30,5 @@
 
 
 
-![# Stm32 diagram]([images/image.png](https://www.researchgate.net/profile/Tolotra-Samuel-Randriakotonjanahary/publication/338954801/figure/fig8/AS:853470546493447@1580494643280/STM32-pinout-diagram.jpg))
+![# Stm32 diagram](![STM32-pinout-diagram](https://github.com/user-attachments/assets/c120521c-c16e-4580-b3fe-a00ea218bfb8)
+)
