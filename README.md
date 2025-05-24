@@ -91,4 +91,4 @@
 - ## วิดีโอการทดลอง
 
 
-![S__3612693_0](https://youtu.be/ENx8NO31Qv0)
+[+1]Click : https://youtu.be/ENx8NO31Qv0
