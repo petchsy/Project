@@ -30,5 +30,5 @@
 
 
 
-![# Stm32 diagram](![STM32-pinout-diagram](https://github.com/user-attachments/assets/c120521c-c16e-4580-b3fe-a00ea218bfb8)
+![Stm32 diagram](![STM32-pinout-diagram](https://github.com/user-attachments/assets/a1e48f89-4baa-405a-a348-93e475d51791)
 )
