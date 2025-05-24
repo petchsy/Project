@@ -48,7 +48,22 @@
 !![Screenshot 2025-05-24 154258](https://github.com/user-attachments/assets/8a8ce8af-1517-484d-9e7a-ae7ca7e3fb87)
 
 
+---
 
+- PCB Diagram
+
+
+![Screenshot 2025-05-24 154319](https://github.com/user-attachments/assets/15c54782-2c96-4f71-a479-6d1ccbbe019e)
+
+
+---
+
+- PCB 3D
+
+![Screenshot 2025-05-24 154405](https://github.com/user-attachments/assets/0550666d-bec4-413c-9fe3-c4897ac6677b)
+
+
+---
 
 
 
