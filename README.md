@@ -72,4 +72,17 @@
 ---
 
 
+- รูปภาพการทำงาน
+
+![S__3612692_0](https://github.com/user-attachments/assets/889c5e1a-2a82-4fb3-a28a-f2fe840088e3)
+
+
+![S__3612689_0](https://github.com/user-attachments/assets/9602cb7f-b902-47e8-8eb7-10d9e0c5b34e)
+
+
+![S__3612691_0](https://github.com/user-attachments/assets/59bfe664-e278-4857-8a34-ff56ac405285)
+
+
+![S__3612693_0](https://github.com/user-attachments/assets/24703cc2-e4e8-4ccb-8799-81c3a31331cc)
+
 
