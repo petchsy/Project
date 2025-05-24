@@ -30,7 +30,7 @@
 - STM32 Diagram
 
 
-(![STM32-pinout-diagram (1)](https://github.com/user-attachments/assets/d068b007-52a7-47ff-a6dd-b649eaab1e5c)
-)
+![STM32-pinout-diagram (1)](https://github.com/user-attachments/assets/d068b007-52a7-47ff-a6dd-b649eaab1e5c)
+
 
 
