@@ -30,5 +30,7 @@
 
 
 
-![PCB ตัวอย่าง](![Screenshot 2025-05-24 154405](https://github.com/user-attachments/assets/9ee27132-803e-438d-82a7-bbd3b6617473)
+|![รายวงจร PCB ](![Screenshot 2025-05-24 154319](https://github.com/user-attachments/assets/1411c741-24ab-4454-9396-f5c0019eb09d)
 )
+)|![PCB 3D](![Screenshot 2025-05-24 154405](https://github.com/user-attachments/assets/9ee27132-803e-438d-82a7-bbd3b6617473)
+)|
