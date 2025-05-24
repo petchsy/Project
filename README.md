@@ -86,3 +86,9 @@
 ![S__3612693_0](https://github.com/user-attachments/assets/24703cc2-e4e8-4ccb-8799-81c3a31331cc)
 
 
+---
+
+- ## วิดีโอการทดลอง
+
+
+https://youtu.be/ENx8NO31Qv0
