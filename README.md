@@ -27,9 +27,10 @@
 | ขนาดบอร์ด                 | ใหญ่กว่า                      | ขนาดเล็กกะทัดรัด               |
 | ราคาโดยประมาณ             | 200 - 300 บาท                | 100 - 150 บาท                   |
 
-## STM32 Diagram
+- STM32 Diagram
 
 
 ![รูปที่1](![STM32-pinout-diagram (1)](https://github.com/user-attachments/assets/d068b007-52a7-47ff-a6dd-b649eaab1e5c)
 )
+
 
