@@ -39,7 +39,6 @@
 
 
 
----
 
 - STM32 Diagram
 
