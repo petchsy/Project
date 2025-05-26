@@ -121,7 +121,7 @@
 
 จะเป็นการทดสอบการบินและจูนค่า PID  ว่ามีความเสถียรและตอบสนอมแม่นยำไหม
 
-
+![image](https://github.com/user-attachments/assets/1daf3237-6e2c-4958-ac3f-5e776c280e5f)
 
 ![S__4956176](https://github.com/user-attachments/assets/e02bf281-49e7-4133-b219-48dabae4b3b0)
 
