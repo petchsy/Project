@@ -108,6 +108,37 @@
 
 ---
 
+- ## Sutup Drone
+![Screenshot 2025-05-26 133957](https://github.com/user-attachments/assets/ef08a6b3-06ec-4785-bf2f-f673e4aec3a6)
+
+
+
+
+
+
+
+Flight Controller
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 
 - ## รูปภาพการทำงาน
 
