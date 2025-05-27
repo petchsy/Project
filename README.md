@@ -109,6 +109,7 @@
 ---
 
 - # Setup Drone
+![S__4956176](https://github.com/user-attachments/assets/e02bf281-49e7-4133-b219-48dabae4b3b0)
 ![Screenshot 2025-05-26 133957](https://github.com/user-attachments/assets/ef08a6b3-06ec-4785-bf2f-f673e4aec3a6)
 ![Screenshot 2025-05-27 125908](https://github.com/user-attachments/assets/6eb9c8b2-e72b-4edc-8b8e-c4957a60c813)
 ![Screenshot 2025-05-27 125954](https://github.com/user-attachments/assets/c0515963-6b52-4f69-b7d2-6d7bc566b6ce)
@@ -134,7 +135,6 @@
 
 ![image](https://github.com/user-attachments/assets/1daf3237-6e2c-4958-ac3f-5e776c280e5f)
 
-![S__4956176](https://github.com/user-attachments/assets/e02bf281-49e7-4133-b219-48dabae4b3b0)
 
 ![S__4956177](https://github.com/user-attachments/assets/bec4a982-ef26-4713-be5f-10b289bb728e)
 
