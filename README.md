@@ -158,7 +158,8 @@
 
 ![S__49913871_0](https://github.com/user-attachments/assets/c0f18112-c49b-43d4-b9cc-7c719cb631fc)
 
-![S__49913873_0](https://github.com/user-attachments/assets/a9eef9ca-6580-4187-a204-3c8c13e489b0)
+![Screenshot 2025-05-27 143322](https://github.com/user-attachments/assets/f3a0d93b-23e9-4766-a105-f8889d23baeb)
+
 
 
 ---
