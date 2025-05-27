@@ -26,9 +26,6 @@
 | แรงดันทำงาน                | 5V                                         | 3.3V                                          |
 | Input Voltage (V-in)        | 7 - 12V (สูงสุด 20V)                       | 5 - 9V (ผ่าน Regulator)                      |
 | Digital I/O                 | 14 ขา (6 PWM)                              | สูงสุด ~37 ขา (PWM ได้ ~12 ขา)              |
-| Analog Input (ADC)          | 6 ช่อง (10-bit)                            | 10 ช่อง (12-bit)                             |
-| โปรโตคอลที่รองรับ          | UART, I2C, SPI                             | UART, I2C, SPI, CAN, USB, PWM                |
-| USB Interface               | USB Type-B (มี USB-to-Serial ในตัว)        | MicroUSB (ไม่ใช่ USB-to-Serial โดยตรง)      |
 | การอัปโหลดโปรแกรม           | ผ่าน USB โดยตรง                            | ต้องใช้ ST-Link หรือ USB-TTL                |
 | IDE ที่รองรับ               | Arduino IDE                                | Arduino IDE (ลง Core เพิ่ม), STM32CubeIDE    |
 
