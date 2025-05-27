@@ -130,12 +130,14 @@
 | I   | Integral      | แก้การเอียงที่ค้างนานๆ               | ช้า, ไหล, อืด             
 | D   | Derivative    | เบรกไม่ให้หมุนแรงเกินไป             | กระตุก, ตอบสนองไวเกิน       
 
+![S__5103625](https://github.com/user-attachments/assets/e01ee557-b2f5-438c-9fd3-cecb61166800)
 
 ![image](https://github.com/user-attachments/assets/1daf3237-6e2c-4958-ac3f-5e776c280e5f)
 
 ![S__4956176](https://github.com/user-attachments/assets/e02bf281-49e7-4133-b219-48dabae4b3b0)
 
 ![S__4956177](https://github.com/user-attachments/assets/bec4a982-ef26-4713-be5f-10b289bb728e)
+
 
 
 
