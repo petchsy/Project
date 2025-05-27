@@ -25,7 +25,7 @@
 | EEPROM                      | 1 KB                                       | ไม่มี (ใช้ Flash จำลองได้)                   |
 | Digital I/O                 | 14 ขา (6 PWM)                              | สูงสุด ~37 ขา (PWM ได้ ~12 ขา)              |
 | การอัปโหลดโปรแกรม           | ผ่าน USB โดยตรง                            | ต้องใช้ ST-Link หรือ USB-TTL                |
-| IDE ที่รองรับ               | Arduino IDE                                | Arduino IDE (ลง Core เพิ่ม), STM32CubeIDE    |
+| IDE ที่รองรับ               | Arduino IDE                                | Arduino IDE (ลง Core เพิ่ม), STM32 ST-LINK Utility    |
 
  STM32F103C8T6 เหมาะสำหรับโปรเจกต์ที่ต้องการประสิทธิภาพสูง, การควบคุมหลายอุปกรณ์พร้อมกัน, และต้องการความแม่นยำในการประมวลผล 
  
